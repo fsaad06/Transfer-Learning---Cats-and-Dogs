@@ -12,20 +12,6 @@ We tested several models pre-trained on ImageNet to build a Cat and Dog Image Cl
 
 Refer to the [PROJ_REPORT.pdf](./PROJ_REPORT.pdf) in the base directory for complete documentation.
 
-## 🔗 Code Links
-
-### Major
-- **[main.py](https://colab.research.google.com/drive/1r1wyeKY7syziB30ameLnKhVn4NVnPHDP?usp=sharing)**
-- **[API](https://colab.research.google.com/drive/1AhyE52cDKASxaB4nZV1ZmL34Ax9jLpfm?usp=sharing)**
-
-### Additional
-- **[ResNet-18](https://colab.research.google.com/drive/1Q8xmaIMAnMW1DMzUQx0YV9SH4Bk9PFG4?usp=sharing)**
-- **[ResNet-50](https://colab.research.google.com/drive/1HJYMstRKOL5z2nPvvSl_gvRNqMqjjcBC?usp=sharing)**
-- **[VGG-16](https://colab.research.google.com/drive/1cwLprw_0RjEzmDrBWkOeTd9GbMpjaQpj?usp=sharing)**
-- **[EfficientNet B0](https://colab.research.google.com/drive/1zNzqegcTSfn2ELH9s0A0eo9bzD-1w18k?usp=sharing)**
-- **[Inception v3](https://colab.research.google.com/drive/1lpbZhdlDQz6HidKGFpU6cRZ6ynonpEUH?usp=sharing)**
-- **[Xception](https://colab.research.google.com/drive/1FuRdEHmSCZoz9urTyA4RXkTh18Mv0B_7?usp=sharing)**
-- **[Quantized ResNet-18](https://colab.research.google.com/drive/12xkWARk20ad8Yyu6oePJsWZzRlRfKuXZ?usp=sharing)**
 
 ## 🛠 Requirements
 
