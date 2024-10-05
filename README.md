@@ -39,7 +39,7 @@ Refer to the [PROJ_REPORT.pdf](./PROJ_REPORT.pdf) in the base directory for comp
 
 Using APIs as a clean interface between the analytics and the application allows for faster product development and reusability of developed models.
 
-**API Used**: Web-based API named 'Streamlit'
+**API Used**: Web-based API named 'Streamlit'.
 
 1. **API Testing**: Designed to test MobileNet v2, ResNet-18, and VGG-16.
 2. **Streamlit File**: Create a file named `streamlit.py` in the working directory to prevent bugs.
